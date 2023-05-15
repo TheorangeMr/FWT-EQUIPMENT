@@ -1,0 +1,44 @@
+.\objects\bsp_smbus_temperature.o: ..\BSP\SMBus\bsp_SMBus_temperature.c
+.\objects\bsp_smbus_temperature.o: ..\BSP\SMBus\bsp_smbus_temperature.h
+.\objects\bsp_smbus_temperature.o: ..\Library\CMSIS\stm32f10x.h
+.\objects\bsp_smbus_temperature.o: ..\Library\CMSIS\core_cm3.h
+.\objects\bsp_smbus_temperature.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_smbus_temperature.o: ..\Library\CMSIS\system_stm32f10x.h
+.\objects\bsp_smbus_temperature.o: ..\User\stm32f10x_conf.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\objects\bsp_smbus_temperature.o: ..\Library\CMSIS\stm32f10x.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\objects\bsp_smbus_temperature.o: ..\Library\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\bsp_smbus_temperature.o: ..\BSP\USART\bsp_usart.h
+.\objects\bsp_smbus_temperature.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\bsp_smbus_temperature.o: ..\BSP\delay-FreeRTOS\bsp_delay.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\include\FreeRTOS.h
+.\objects\bsp_smbus_temperature.o: D:\software\keil 5 install\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\bsp_smbus_temperature.o: ..\User\FreeRTOSConfig.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\include\projdefs.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\include\portable.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\include\deprecated_definitions.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\portable\ARM_CM3\portmacro.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\include\mpu_wrappers.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\include\task.h
+.\objects\bsp_smbus_temperature.o: ..\FreeRtos\include\list.h
